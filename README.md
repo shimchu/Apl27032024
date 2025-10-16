@@ -1,6 +1,7 @@
 # <u>**Applied Programming Lab EE2703**
 
  Hi :)
+ 
  This repository consists of all my Python coded solutions to the challenging problem statements of the assignments in the course EE2703 under Professor Nitin Chandrachoodan.
 
  Every directory consists of 

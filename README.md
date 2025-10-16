@@ -10,6 +10,11 @@
  - The Jupyter notebook implementation in ipynb format
  - Any addtional results (images, text)
  - Data Required to run the script
+ - A guide to running the script locally on the reader's machine
+
+   
+Addtionally, there are also zip files containing the entire assignment and one big APL2703 zip file with all the assignments uploaded in this repo.
+
 
 
  

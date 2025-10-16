@@ -1,4 +1,4 @@
-# <u>**Assigment 2 - SPICE SIMULATION**<\u>
+# <u>**Assigment 2 - SPICE SIMULATION**
 [SPICE](https://ngspice.sourceforge.io/) is a circuit simulator primarily designed for IC Design.  There are many different variants of SPICE that are used in Electrical and Electronics, and there are many commercial variants as well.  
 
 # Circuit Solving

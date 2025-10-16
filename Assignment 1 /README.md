@@ -1,4 +1,4 @@
-#**ASSIGNMENT 1 - Matrix Multiplication**
+# <u>**ASSIGNMENT 1 - Matrix Multiplication**<\u>
 
 The goal of this assignment is to implement an efficient matrix mulitplication algorithm in Python with proper error handling and edge case management.
 

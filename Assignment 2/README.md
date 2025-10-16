@@ -5,7 +5,7 @@
 
 A circuit can be represented as a *graph* - a structure that has *nodes* and *edges*.  Each node in the graph is a point where two or more elements meet.
 
-<img src="images/img1.png" alt="Circuit diagram" width="400">
+<img src="images/img1" alt="Circuit diagram" width="400">
 
 
 The circuit above shows a very  simple example of a circuit.  Here there are 3 *nodes*: they are labeled `1`, `2` and `GND`, but the labels could be any string in general.  The node labeled `GND` is special - since voltages are relative, we need to select exactly one node in the circuit as the *ground* potential, and this is usually given the special label name `GND`. 
@@ -74,7 +74,7 @@ R2   2 GND     1
 
 Similarly, we could also have another circuit as follows:
 
-<img src="images/img2.png" alt="srcs" width="400">
+<img src="images/img2" alt="srcs" width="400">
 
 
 ```spice

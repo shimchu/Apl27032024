@@ -4,8 +4,8 @@ The goal of this assignment is to use optimization technique such as Simulated A
 
 **Steps for optimization problem:**
 
--Start with the qwerty layout that was given as an example in the A4 assignment.
--Keep the same locations ((x, y) coordinates) for the keys, but allow each key to be swapped or moved into a different location. With this as the basic "move", write an optimization routine to test the quality of different keyboard layouts.
+- Start with the qwerty layout that was given as an example in the A4 assignment.
+- Keep the same locations ((x, y) coordinates) for the keys, but allow each key to be swapped or moved into a different location. With this as the basic "move", write an optimization routine to test the quality of different keyboard layouts.
 
 **Features of the function:** 
 - should be able to take in any arbitrary string (can be a multi-line string) as text, and go through and optimize the layout for that string.

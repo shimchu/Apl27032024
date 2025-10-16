@@ -6,6 +6,6 @@ This repository provides a clean, modular approach to multiplying matrices while
 
 ## **Repository Contents**
 
-matmul.py – Implements the matrix multiplication logic with built-in checks for edge cases such as incompatible matrix sizes and irregular inputs.
+matmul.ipynb – Implements the matrix multiplication logic with built-in checks for edge cases such as incompatible matrix sizes and irregular inputs.
 
 testmatmul.py - Unit tests verifying correctness and performance across different matrix types.

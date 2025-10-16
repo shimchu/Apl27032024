@@ -17,19 +17,19 @@ The course was designed to build strong programming fundamentals while applying 
 
 ### <u>**Key Learning Areas**
 #### <u> Programming Fundamentals
-Developed proficiency in Python through exercises covering data types, control structures, functions, and object-oriented programming, with examples drawn from circuit analysis and electronic systems.
+- Developed proficiency in Python through exercises covering data types, control structures, functions, and object-oriented programming, with examples drawn from circuit analysis and electronic systems.
 #### <u> Scientific Computing
-Applied tools such as **NumPy**, **Matplotlib**, and related scientific libraries for numerical computation, data visualization, and signal or system analysis.
+- Applied tools such as **NumPy**, **Matplotlib**, and related scientific libraries for numerical computation, data visualization, and signal or system analysis.
 #### <u> Numerical Methods in EE
-Implemented algorithms for solving systems of linear equations (e.g., nodal and mesh analysis), and numerical integration methods used in transient circuit simulations.
+- Implemented algorithms for solving systems of linear equations (e.g., nodal and mesh analysis), and numerical integration methods used in transient circuit simulations.
 #### <u> Curve Fitting and Regression
-Explored linear and nonlinear regression, least-squares fitting, and data modeling to analyze experimental and simulated EE data.
+- Explored linear and nonlinear regression, least-squares fitting, and data modeling to analyze experimental and simulated EE data.
 #### <u> Optimization Techniques
-Designed and implemented optimization algorithms including **gradient descent** and **simulated annealing** for parameter tuning and performance optimization.
+- Designed and implemented optimization algorithms including **gradient descent** and **simulated annealing** for parameter tuning and performance optimization.
 #### <u> Performance Optimization
-Profiled Python code to identify computational bottlenecks and optimized performance usingalgorithmic improvements and Cython acceleration.
+- Profiled Python code to identify computational bottlenecks and optimized performance usingalgorithmic improvements and Cython acceleration.
 #### <u> Applications in Electrical Engineering
-All topics are contextualized through varying real world problems such as circuit simulation, data analysis, and optimization of python code.
+- All topics are contextualized through varying real world problems such as circuit simulation, data analysis, and optimization of python code.
 
 Through these assignments, I’ve gained:
 

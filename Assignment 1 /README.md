@@ -4,7 +4,7 @@ The goal of this assignment is to implement an efficient matrix mulitplication a
 
 This repository provides a clean, modular approach to multiplying matrices while gracefully managing invalid inputs and dimensional inconsistencies.
 
-##**Repository Contents**
+## **Repository Contents**
 
 matmul.py – Implements the matrix multiplication logic with built-in checks for edge cases such as incompatible matrix sizes and irregular inputs.
 testmatmul.py - Unit tests verifying correctness and performance across different matrix types.

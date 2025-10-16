@@ -5,9 +5,9 @@
 
 A circuit can be represented as a *graph* - a structure that has *nodes* and *edges*.  Each node in the graph is a point where two or more elements meet.
 
-![Simple circuit](images/scree){ width=50% }
+![Simple circuit](images/img1.png){ width=50% }
 
-The circuit above shows a very simple example of a circuit.  Here there are 3 *nodes*: they are labeled `1`, `2` and `GND`, but the labels could be any string in general.  The node labeled `GND` is special - since voltages are relative, we need to select exactly one node in the circuit as the *ground* potential, and this is usually given the special label name `GND`. 
+The circuit above shows a very  simple example of a circuit.  Here there are 3 *nodes*: they are labeled `1`, `2` and `GND`, but the labels could be any string in general.  The node labeled `GND` is special - since voltages are relative, we need to select exactly one node in the circuit as the *ground* potential, and this is usually given the special label name `GND`. 
 
 The circuit has a fixed independent voltage source $V_s$, and two known resistances $R_1$ and $R_2$.  We want to find the voltages at the nodes `1` and `2`, and also the current through the voltage source.
 
@@ -73,7 +73,7 @@ R2   2 GND     1
 
 Similarly, we could also have another circuit as follows:
 
-![Voltage and Current sources](circ2.png){ width=50% }
+![Voltage and Current sources](images/img2.png){ width=50% }
 
 ```spice
 .circuit
